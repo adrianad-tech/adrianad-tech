@@ -103,6 +103,9 @@ I look up to Kimberly Bryant for her work in expanding access to technology educ
 - Email: adaniels926@yahoo.com  
 - GitHub: https://github.com/adrianad-tech
 
+## 📄 Resume
+[Download My Resume](https://github.com/adrianad-tech/adriana-resume/blob/main/Adriana_Daniels_Cybersecurity_Resume.pdf)
+
 ## 🧠 Skills Word Cloud
 
 ![Word Cloud](adrianawordcloud.jpg)
