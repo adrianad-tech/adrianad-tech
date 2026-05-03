@@ -60,16 +60,20 @@ I am actively seeking entry-level opportunities in cybersecurity and IT, particu
 
 ### 🧪 XP Cyber Range (NICE Challenge Project)
 
-Completed real-world cybersecurity simulations in a virtual enterprise environment designed to replicate SOC operations.
+Completed real-world cybersecurity simulations in a virtual enterprise environment designed to replicate Security Operations Center (SOC) workflows.
 
-**Work includes:**
-- Incident response investigations  
-- Log and network traffic analysis  
-- Digital forensics workflows  
-- Threat identification in enterprise systems  
-- Security event documentation and reporting  
+🔗 View Project Repository:
+https://github.com/adrianad-tech/XpCyberRangeProjects
 
-These labs simulate real SOC workflows including detection, investigation, and response.
+Work includes:
+
+Incident response investigations
+Log and network traffic analysis
+Digital forensics workflows
+Threat identification in enterprise systems
+Security event documentation and reporting
+
+These labs simulate real SOC operations including detection, investigation, and response to security incidents in enterprise environments.
 
 ---
 
