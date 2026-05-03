@@ -11,7 +11,7 @@ My name is Adriana Daniels, and I am an aspiring cybersecurity and technology pr
 
 I am currently transitioning into cybersecurity from a strong foundation in both healthcare-related sciences and IT systems, combining analytical thinking, discipline, and technical training to build a career in security operations and IT infrastructure.
 
-I am actively seeking entry-level opportunities in cybersecurity and IT, particularly in Security Operations Center (SOC) and security-focused technical roles.
+I am actively seeking entry-level opportunities in cybersecurity and IT, particularly in Security Operations Center (SOC) and other security-focused technical roles where I can continue developing and applying my skills.
 
 ---
 
