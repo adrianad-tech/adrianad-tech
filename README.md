@@ -8,51 +8,61 @@
 
 ## 👩🏽‍💻 Professional Summary
 
-My name is Adriana Daniels, and I am an aspiring cybersecurity and IT professional with interests in information security, cloud solutions architecture, and data analytics. I am passionate about applying technical and analytical problem-solving skills to real-world cybersecurity and infrastructure challenges through hands-on labs, simulations, and technical training.
+Aspiring cybersecurity and IT professional focused on security operations, threat analysis, and cloud fundamentals. I bring strong analytical problem-solving skills and hands-on experience through cybersecurity labs and simulated enterprise environments.
 
-I am currently transitioning into cybersecurity from a strong foundation in healthcare-related sciences and IT systems, combining analytical thinking, discipline, and technical training to pursue a career in security operations and IT infrastructure.
-
-I am actively seeking entry-level opportunities in cybersecurity and IT, particularly in Security Operations Center (SOC) and technical support roles where I can continue developing and applying my skills.
+Currently transitioning into cybersecurity from a background in healthcare-related sciences and IT systems, with a focus on applying security principles in real-world environments. Actively seeking entry-level SOC Analyst or IT roles.
 
 ---
 
 ## 🎯 Career Objectives
 
 **Target Roles**
-- Security Operations Center (SOC) Analyst  
-- Cybersecurity Analyst  
-- Systems Administrator  
-- Network Security Engineer  
-- Cloud Operations Engineer  
-- Data / Security Analyst  
+
+* Security Operations Center (SOC) Analyst
+* Cybersecurity Analyst
+* Systems Administrator
+* Network Security Engineer
+* Cloud Operations Engineer
 
 **Focus Areas**
-- Threat detection and incident response  
-- Network traffic analysis and security monitoring  
-- Security log analysis (SIEM fundamentals)  
-- Linux system administration  
-- AWS cloud fundamentals  
-- Data-driven cybersecurity insights  
+
+* Threat detection and incident response
+* Network traffic analysis and monitoring
+* Security log analysis (SIEM fundamentals)
+* Linux system administration
+* AWS cloud fundamentals
 
 ---
 
 ## 🎓 Education
 
-- Bachelor of Science in Exercise Science — Lamar University  
-- Associate of Applied Science (AAS), Computer Systems Networking (Cybersecurity Specialization) — Houston City College  
+* Bachelor of Science in Exercise Science — Lamar University
+* Associate of Applied Science (AAS), Computer Systems Networking (Cybersecurity Specialization) — Houston City College
 
 ---
 
 ## 🧠 Technical Skills
 
-- Cybersecurity fundamentals (networking, threats, defense concepts)  
-- Linux command-line operations and system administration  
-- AWS fundamentals (EC2, S3, IAM)  
-- Security monitoring and log analysis concepts  
-- Python and Excel for data analysis  
-- IT troubleshooting and technical support  
-- Documentation and technical communication  
-- Analytical thinking and problem-solving  
+* Cybersecurity fundamentals (networking, threats, defense concepts)
+* Linux system administration and command-line usage
+* AWS fundamentals (EC2, S3, IAM)
+* Security monitoring and log analysis concepts
+* Python and Excel for data analysis
+* IT troubleshooting and technical support
+* Technical documentation and reporting
+
+---
+
+## 📂 Projects & Hands-On Work
+
+### 🔐 XP Cyber Range Security Investigations
+
+🔗 https://github.com/adrianad-tech/XpCyberRangeProjects
+
+* Investigated security incidents in a simulated enterprise environment
+* Analyzed logs and network activity to identify threats
+* Documented incident findings, escalation paths, and remediation steps
+* Applied structured incident response processes across multiple scenarios
 
 ---
 
@@ -60,55 +70,42 @@ I am actively seeking entry-level opportunities in cybersecurity and IT, particu
 
 ### 🧪 XP Cyber Range (NICE Challenge Project)
 
-Completed real-world cybersecurity simulations in a virtual enterprise environment designed to replicate Security Operations Center (SOC) workflows.
-
-🔗 View Project Repository:
-https://github.com/adrianad-tech/XpCyberRangeProjects
-
-Work includes:
-
-Incident response investigations
-Log and network traffic analysis
-Digital forensics workflows
-Threat identification in enterprise systems
-Security event documentation and reporting
-
-These labs simulate real SOC operations including detection, investigation, and response to security incidents in enterprise environments.
+Hands-on cybersecurity simulation platform focused on developing practical SOC skills in a controlled environment.
 
 ---
 
 ### 🧪 TryHackMe
 
-Hands-on cybersecurity training platform used to build foundational skills in:
+Training focused on:
 
-- Linux fundamentals  
-- Networking and security basics  
-- Introductory offensive and defensive security concepts  
-- Vulnerability identification and system exploration  
+* Linux fundamentals
+* Networking basics
+* Security concepts (offensive & defensive)
+* Vulnerability identification
 
 ---
 
 ### 🧪 National Cyber League (Cyber Skyline)
 
-Cybersecurity competition experience involving timed, scenario-based challenges:
+Competition-based challenges covering:
 
-- Digital forensics  
-- Network traffic analysis  
-- Password and system security challenges  
-- Applied cybersecurity problem solving  
+* Digital forensics
+* Network analysis
+* Password security
+* Timed problem-solving
 
 ---
 
 ### 🧪 Cisco Networking Academy (NetAcad)
 
-- Networking fundamentals (routing, switching, security basics)  
+* Networking fundamentals (routing, switching, security basics)
 
 ---
 
 ### 🧪 NDG NetLab+
 
-- Linux system administration  
-- Networking labs and simulations  
+* Linux system administration labs
+* Networking simulations
 
 ---
 
@@ -116,35 +113,28 @@ Cybersecurity competition experience involving timed, scenario-based challenges:
 
 ### Rec Sports – University Recreation Department
 
-- Completed internship in operations and administrative support  
-- Currently employed part-time after internship completion  
-- Developed strong communication, teamwork, organization, and time management skills  
-- Managed documentation and operational processes with accuracy and confidentiality  
-
----
-
-## 📂 Projects & Hands-On Work
-
-- Cybersecurity lab environments (Linux, networking, security fundamentals)  
-- SOC-style log analysis exercises and simulations  
-- Digital forensics and incident response practice  
-- Python and data analysis applied to cybersecurity scenarios  
+* Completed internship in operations and administrative support
+* Continued part-time employment post-internship
+* Developed communication, organization, and teamwork skills
+* Managed documentation and operational processes with accuracy
 
 ---
 
 ## 🌟 Inspiration
 
-**Kimberly Bryant — Founder of Black Girls Code**
+Kimberly Bryant — Founder of Black Girls Code
 
-Her work in expanding access to technology education and empowering underrepresented communities inspires my commitment to building a career in cybersecurity and contributing to a more inclusive tech industry.
+> “We have to make sure that girls know that they can code, that they belong in tech, and that they can build the future.”
+
+Her work in expanding access to technology education inspires my commitment to building a career in cybersecurity and contributing to a more inclusive tech industry.
 
 ---
 
 ## 📫 Contact
 
-- LinkedIn: https://www.linkedin.com/in/adriana-daniels-b920a2347/  
-- Email: adaniels926@yahoo.com  
-- GitHub: https://github.com/adrianad-tech  
+* LinkedIn: https://www.linkedin.com/in/adriana-daniels-b920a2347/
+* Email: [adaniels926@yahoo.com](mailto:adaniels926@yahoo.com)
+* GitHub: https://github.com/adrianad-tech
 
 ---
 
