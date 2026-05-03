@@ -101,4 +101,8 @@ I look up to Kimberly Bryant for her work in expanding access to technology educ
 ## 📫 Contact
 - LinkedIn: https://www.linkedin.com/in/adriana-daniels-b920a2347/  
 - Email: adaniels926@yahoo.com  
-- GitHub: https://github.com/adrianad-tech  
+- GitHub: https://github.com/adrianad-tech
+
+## 🧠 Skills Word Cloud
+
+![Word Cloud](adrianawordcloud.png)
