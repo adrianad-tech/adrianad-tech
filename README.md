@@ -105,4 +105,4 @@ I look up to Kimberly Bryant for her work in expanding access to technology educ
 
 ## 🧠 Skills Word Cloud
 
-![Word Cloud](adrianawordcloud.png)
+![Word Cloud](adrianawordcloud.jpg)
