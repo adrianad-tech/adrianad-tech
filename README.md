@@ -1,4 +1,4 @@
-# 🔐 Adriana Daniels | Cybersecurity & IT Professional
+# 🔐 Adriana Daniels Cybersecurity Portfolio
 
 ## 🚀 Aspiring SOC Analyst | Cloud Security | Data-Driven Cybersecurity
 
