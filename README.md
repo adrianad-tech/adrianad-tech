@@ -1,5 +1,7 @@
 # 🔐 Adriana Daniels Cybersecurity Portfolio
 
+![Adriana Daniels](image1.jpg)
+
 ## 🚀 Aspiring SOC Analyst | Cloud Security | Data-Driven Cybersecurity
 
 > “My goal is to detect, analyze, and respond to security threats while building strong expertise in cybersecurity operations, cloud infrastructure, and security analytics.”
