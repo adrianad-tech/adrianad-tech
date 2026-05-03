@@ -1,82 +1,100 @@
-# Hi, I'm Adriana Daniels 👋
+# 🔐 Adriana Daniels | Cybersecurity & IT Professional
 
-## 🚀 About Me
-Motivated and technically driven professional transitioning into cybersecurity and IT support. Currently pursuing an Associate Degree in Computer Systems Networking & Cybersecurity, with hands-on experience in troubleshooting, system support, documentation, and user assistance through administrative and operational roles.
+## 🚀 Aspiring SOC Analyst | Cloud Security | Data-Driven Cybersecurity
 
-I have strong problem-solving, communication, and customer service skills, and I am known for handling technical and operational tasks with accuracy and attention to detail. I am especially interested in cybersecurity, system operations, and security monitoring.
-
-I am seeking opportunities to apply foundational IT and cybersecurity knowledge in entry-level roles such as Help Desk Support or Security Operations, while continuing to grow within a technical and security-focused environment.
+> “My goal is to detect, analyze, and respond to security threats while building strong expertise in cybersecurity operations, cloud infrastructure, and security analytics.”
 
 ---
 
-## 🎯 Professional Interests
-I am pursuing opportunities in roles including:
-- Security Operations Center (SOC) Analyst
-- Cybersecurity Analyst
-- Systems Administrator
-- Network Security Engineer
-- Cloud Operations Engineer
-- Data Analyst
-- Business Intelligence Analyst
-- Security Data Analyst
+## 👩🏽‍💻 Professional Summary
+My name is Adriana Daniels, and I am an aspiring cybersecurity and technology professional with interests in information security, cloud solutions architecture, and data analytics. I am passionate about applying technical, analytical, and problem-solving skills to real-world cybersecurity and infrastructure challenges through hands-on projects, coursework, and technical competitions.
+
+I am currently transitioning into cybersecurity from a strong foundation in both healthcare-related sciences and IT systems, combining analytical thinking, discipline, and technical training to build a career in security operations and IT infrastructure.
+
+I am actively seeking entry-level opportunities in cybersecurity and IT, particularly in Security Operations Center (SOC) and security-focused technical roles.
 
 ---
 
-## 🔍 Focus Areas
+## 🎯 Career Objectives
+**Target Roles:**
+- Security Operations Center (SOC) Analyst  
+- Cybersecurity Analyst  
+- Systems Administrator  
+- Network Security Engineer  
+- Cloud Operations Engineer  
+- Data / Security Data Analyst  
+- Business Intelligence Analyst  
+
+**Focus Areas:**
+- Threat detection and incident response  
 - Network traffic analysis and monitoring  
-- System security fundamentals  
-- Log analysis and threat detection  
-- Linux system operations and administration  
-- Introductory cloud security concepts  
-- Security-focused data interpretation and reporting  
+- Security log analysis (SIEM concepts)  
+- Linux system administration  
+- Cloud security fundamentals (AWS)  
+- Data-driven security insights  
 
 ---
 
-## 🧠 Skills & Tools
+## 🎓 Education
+- Bachelor of Science in Exercise Science — Lamar University  
+- Associate of Applied Science (AAS) in Computer Systems Networking (Cybersecurity Specialization) — Houston City College  
+
+---
+
+## 🧠 Technical Skills
 - Cybersecurity fundamentals (networking, threats, defense concepts)  
-- System and operational administration  
-- Linux command-line tools and basic system management  
+- Linux command-line operations and system administration  
 - AWS fundamentals (EC2, S3, IAM)  
-- Data analysis basics (Python, Excel, visualization)  
-- Critical thinking and structured problem-solving  
-- Customer service and technical support experience  
-- Handling sensitive information with confidentiality and compliance awareness  
+- Security monitoring and log analysis concepts  
+- Data analysis (Python, Excel, visualization basics)  
+- IT troubleshooting and technical support  
+- Strong analytical thinking and problem-solving  
+- Documentation, communication, and user support  
 
 ---
 
-## 📜 Certifications & Hands-On Training
+## 🛡️ Cybersecurity Training & Platforms
 
-### Cybersecurity Platforms
-- TryHackMe – hands-on labs in penetration testing, networking, Linux, and defensive security concepts  
-- XP Cyber Range – cybersecurity simulation and incident response training environments  
+- Hands-on cybersecurity labs and simulations via TryHackMe  
+  - Linux fundamentals  
+  - Networking & security basics  
+  - Introductory offensive and defensive security concepts  
 
-### Networking & Systems Training
-- Cisco Networking Academy (NetAcad) – networking fundamentals (routing, switching, security basics)  
-- NDG NetLab+ – Linux system administration and networking labs  
+- Cybersecurity competition experience through the National Cyber League (Cyber Skyline competitions)  
+  - Digital forensics challenges  
+  - Network traffic analysis  
+  - Security-based problem solving under time constraints  
 
-### Governance & Security Foundations
-- Certified Information Systems Auditor (CISA) – foundational auditing, risk, and governance concepts  
-- Cybersecurity Operations Projects – hands-on security monitoring and defensive exercises  
+- Cisco Networking Academy (NetAcad)  
+  - Networking fundamentals (routing, switching, security basics)  
+
+- NDG NetLab+  
+  - Linux system administration and networking labs  
 
 ---
 
 ## 🏆 Experience
-- NCL Cyber Skyline Competition Participant  
-  - Completed cybersecurity-based challenges involving real-world scenarios  
-  - Strengthened skills in networking, digital forensics, and security analysis  
-  - Developed analytical thinking and problem-solving under timed conditions  
 
-- 6 Years Administrative & Operational Experience  
-  - Managed sensitive documentation with confidentiality and accuracy  
-  - Ensured compliance with organizational procedures and policies  
-  - Supported operational workflows with strong attention to detail and time management  
+### Rec Sports – University Recreation Department
+- Completed internship in operations and administrative support  
+- Currently employed part-time after internship completion  
+- Developed strong communication, teamwork, organization, and time management skills  
+- Managed documentation and operational tasks with accuracy and confidentiality  
 
 ---
 
-## 📂 Projects
-- 🔐 Cybersecurity Labs & Practice Projects (Python, Linux, networking fundamentals)  
-- 🧪 Cybersecurity competition-based exercises and simulations  
-- 📊 Security-focused analysis exercises (log interpretation and pattern detection)  
+## 📂 Projects & Hands-On Work
+- Cybersecurity lab environments focused on Linux, networking, and security fundamentals  
+- Security scenario-based exercises and simulations  
+- Log analysis and pattern detection practice (SOC-style foundational work)  
+- Python and data analysis exercises applied to cybersecurity concepts  
+
+---
+
+## 🌟 Role Model
+**Kimberly Bryant — Founder of Black Girls Code**
+
+I look up to Kimberly Bryant for her work in expanding access to technology education for underrepresented communities. Her efforts to create pathways into technology and empower future generations inspire me to continue developing my skills and contribute to a more inclusive and accessible cybersecurity industry.
 
 ---
 
