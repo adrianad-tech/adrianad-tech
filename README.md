@@ -1,50 +1,48 @@
 # 🔐 Adriana Daniels
 
-## Cybersecurity | SOC Analyst in Training | IT Support & Systems Focus
+## Cybersecurity | SOC Analyst in Training | IT & Systems Support
 
-Aspiring cybersecurity professional focused on security operations, incident response, and systems administration. I enjoy working with logs, troubleshooting systems, and understanding how security events occur in real environments.
+Aspiring cybersecurity professional focused on SOC operations, incident response, and system administration. I enjoy analyzing logs, troubleshooting systems, and understanding how security incidents occur in real environments.
 
-I am currently building hands-on experience through cybersecurity labs, simulations, and technical training platforms while transitioning from an administrative and operations background into IT and cybersecurity.
+Currently building hands-on experience through cybersecurity labs, simulations, and technical training while transitioning from an administrative operations background into cybersecurity.
 
 ---
 
-## 🧠 Skills & Focus Areas
+## 🧠 Skills
 
-- Security Operations (SOC fundamentals)
-- Incident response & troubleshooting
+- SOC fundamentals
+- Incident response
+- Active Directory basics
 - Windows & Linux systems
-- Active Directory & access control basics
-- Network fundamentals & monitoring
-- Cloud basics (AWS)
-- Technical documentation & reporting
+- Network troubleshooting
+- AWS basics
+- Technical documentation
 
 ---
 
 ## 🧪 Hands-On Experience
 
-- XP Cyber Range – Incident simulations and security troubleshooting
-- TryHackMe – Linux, networking, and cybersecurity fundamentals
-- National Cyber League (NCL) – Cybersecurity competitions
-- Cisco NetAcad – Networking foundations
-- NDG NetLab – Linux and systems practice
+- XP Cyber Range (Incident Simulation Work)
+- TryHackMe (Linux, Networking, Security Basics)
+- Cisco NetAcad (Networking Fundamentals)
+- NDG NetLab (Linux + Systems Labs)
+- National Cyber League (Cybersecurity Challenges)
 
 ---
 
-## 📂 Featured Work
+## 📂 Featured Project
 
-🔐 XP Cyber Range Projects  
+🔐 XP Cyber Range Incident Analysis  
 https://github.com/adrianad-tech/XpCyberRangeProjects
 
 ---
 
 ## 💼 Experience
 
-Administrative & Operations Support (University Recreation Department)
-
-- Worked in structured operational environments
-- Managed documentation and user support tasks
-- Developed communication and problem-solving skills
-- Strengthened attention to detail and process consistency
+Administrative & Operations Support – Rec Sports Department  
+- Documentation and workflow support  
+- User assistance and communication  
+- Problem-solving in structured environments  
 
 ---
 
